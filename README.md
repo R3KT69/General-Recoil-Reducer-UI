@@ -7,5 +7,3 @@ Reduces Weapon Recoil. Now comes with UI
 
 Instructions:
 Download General Recoil Reducer.7z and extract it. Run main.exe.
-
-https://github.com/19c40b47-8dcf-45b8-8ce7-d3bcd7ac4a02
