@@ -7,5 +7,5 @@ Reduces Weapon Recoil. Now comes with UI
 
 Instructions:
 [Download General Recoil Reducer](https://github.com/R3KT69/General-Recoil-Reducer-UI/raw/refs/heads/main/General%20Recoil%20Reducer.7z)
- and extract it. Run main.exe.
+ and extract it. Run app.exe.
 
